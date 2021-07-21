@@ -2,7 +2,7 @@
 
 ai@megankern.com
 
-Kaggle
+[Kaggle](https://www.kaggle.com/megankern/pytorch-lightning-w-ray-tune "Kaggle")
 
 <br>
 <h2> PERSONAL STATEMENT </h2> 
