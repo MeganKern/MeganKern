@@ -2,8 +2,6 @@
 
 ai@megankern.com
 
-(334)-333-0578
-
 Kaggle
 
 <br>
