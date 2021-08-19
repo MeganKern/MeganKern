@@ -1,4 +1,4 @@
 <h1> Megan Kern </h1>
-Currently interested in Data Analyst opportunities, have multidisciplinary background, and never stop learning!
+Currently interested in data opportunities, have multidisciplinary background, and never stop learning!
 
 ai@megankern.com
