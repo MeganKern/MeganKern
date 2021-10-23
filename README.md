@@ -1,4 +1,4 @@
 <h1> Megan Kern </h1>
-Interested in the gap between biological and neural network efficiency.
+Interested in gaps between efficiency of biological systems and state-of-the-art neural networks in NLP.
 
 ai@megankern.com
