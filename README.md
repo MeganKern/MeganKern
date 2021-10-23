@@ -1,4 +1,4 @@
 <h1> Megan Kern </h1>
-Currently interested in data opportunities, have multidisciplinary background, and never stop learning!
+Interested in the gap between biological and neural network efficiency.
 
 ai@megankern.com
